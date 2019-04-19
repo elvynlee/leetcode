@@ -1,3 +1,3 @@
 ### LeetCode practices in Python
 
-笔记加代码
+笔记加参考代码
